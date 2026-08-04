@@ -11,8 +11,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/ryne-elbimm/ryne-elbimm/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/ryne-elbimm/ryne-elbimm/trophy-output/trophy.svg?theme=dark_dimmed&no-bg=false&no-frame=true" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/ryne-elbimm/ryne-elbimm/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/ryne-elbimm/ryne-elbimm/trophy-output/trophy.svg?theme=dark_dimmed&no-bg=false&no-frame=true" height="150" alt="trophy graph" />
   <img src="https://raw.githubusercontent.com/ryne-elbimm/ryne-elbimm/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=react&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
@@ -53,9 +53,9 @@
 ###
 
 <div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" <a href="https://www.youtube.com/@BimaManz"> />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" <a href="https://www.instagram.com/bobrobsu/"> />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" <a href="https://www.linkedin.com/in/bima-andika-4449a0377/"> />
 </div>
 
 ###
